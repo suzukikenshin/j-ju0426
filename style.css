@@ -28,9 +28,9 @@ nav ul li a {
 }
 
 main {
-  displey: flex;
+  display: flex;
   flex-direction: column;
-  align-item: center;
+  align-items: center;
   padding: 20px;
 }
 
